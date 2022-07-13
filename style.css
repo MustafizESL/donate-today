@@ -1,0 +1,95 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+.green-color {
+    color: rgb(38, 172, 149);
+}
+
+.flex{
+    display: flex;
+    margin-bottom: 100 px;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 2%;
+    padding-right: 5%;
+}
+
+.half-width img {
+    width: 100%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(123, 177, 168), rgb(38, 172, 149));
+    padding: 10px 40px;
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+    border-radius: 5px;
+}
+
+.top {
+    background-image: url(imgs/donation3.jpg);
+    background-repeat: no-repeat;
+    color: white;
+    text-align: center;
+    width: 100%;
+}
+.top img{
+    width: 100%;
+}
+.center{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+#orange{
+    color: orange;
+    font-family: 'Times New Roman', Times, serif;
+}
+#email{
+    border: 50px solid blanchedalmond;
+    background-color: blanchedalmond;
+}
+section{
+    margin-bottom: 50px;
+}
+
+.left{
+    text-align: left;
+}
+
+#food{
+    background-color: azure;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#shelter{
+    background-color:rgb(250, 232, 234);
+    padding: 20px 20px;
+}
+#education{
+    background-color: blanchedalmond;
+    padding: 20px 20px;
+}
+#styled{
+    color: orange;
+    border: 1px solid orange;
+}
